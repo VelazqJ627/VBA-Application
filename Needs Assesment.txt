@@ -1,0 +1,19 @@
+What does it need to do? (Functional Requirements)
+- Application has to be on Excel
+-End User Form
+	-VBA
+-Store Incoming and Outgoing Checks
+	-Check Number
+	-Date of transaction
+	-Debit/Credit
+	-Ammount
+	-Description
+-RUnning Total 	
+
+
+What do you need in it?(data requirements based on those 5)
+- Allow users to store Check information on a user form
+- Allow users to view all data 
+
+Who is going to use it(end user concerns-never underestimate the stupidity of the end user)?
+Small Business Owners
